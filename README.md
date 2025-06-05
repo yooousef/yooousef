@@ -5,8 +5,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/youssef_gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="youssef_gamal" height="30" width="40" /></a>
-<a href="https://twitter.com/_yosef_jamal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yosef_jamal_" height="30" width="40" /></a>
 <a href="https://medium.com/@youssefgamal6665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@youssefgamal6665" height="30" width="40" /></a>
+<a href="https://twitter.com/_yosef_jamal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yosef_jamal_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@VersatileYouTubeChannel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="versatileyoutubechannel" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yosef_gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yosef_gamal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yousef_gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yousef_gamal" height="30" width="40" /></a>
